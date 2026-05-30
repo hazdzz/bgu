@@ -1,17 +1,17 @@
 # BGU
 
 ## About
-The PyTorch implementation of Binary Gating Unit from the paper *Predicting distributions with Linearizing Belief Networks*.
+The PyTorch implementation of Binary Gating Unit from the paper *Techniques for Learning Binary Stochastic Feedforward Neural Networks*.
 
 ## Paper
-https://arxiv.org/abs/1511.05622
+https://arxiv.org/abs/1406.2989
 
 ## Citation
 ```
-@inproceedings{dauphing15predicting,
-  title     = {Predicting distributions with Linearizing Belief Networks},
-  author    = {Yann N. Dauphin and David Grangier},
-  booktitle = {International Conference on Learning Representations},
-  year      = {2016}
+@inproceedings{raiko2014techniques,
+  title     = {Techniques for Learning Binary Stochastic Feedforward Neural Networks},
+  author    = {Tapani Raiko and Mathias Berglund and Guillaume Alain and Laurent Dinh},
+  booktitle = {3rd International Conference on Learning Representations},
+  year      = {2015}
 }
 ```
